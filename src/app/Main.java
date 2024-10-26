@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Convertor App.");
 
+        System.out.println("App for measures converting.");
         double kgs = 5;
         double pounds = convKgsToPounds(kgs);
         System.out.println("Resalt is " + pounds + " pounds.");
